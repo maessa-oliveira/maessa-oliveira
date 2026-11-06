@@ -18,6 +18,7 @@ problemas do dia a dia em ferramentas de software, abertas e testadas. Estudo En
 | [**Mapa da RBMC**](https://github.com/maessa-oliveira/rbmc-mapa) | Estação GNSS do IBGE mais próxima da obra, com situação semanal e dados atualizados todo dia | [abrir ↗](https://maessa-oliveira.github.io/rbmc-mapa/) |
 | [**geobr-tools**](https://github.com/maessa-oliveira/geobr-tools) | Biblioteca Python de geodésia para o Brasil: UTM, SAD 69 ↔ SIRGAS 2000, fator de escala e áreas; 769 testes contra o PROJ | [docs ↗](https://maessa-oliveira.github.io/geobr-tools/) |
 | [**Calibra Topo**](https://github.com/maessa-oliveira/calibra-topo) | Sistema web para controlar a aferição de equipamentos de topografia (FastAPI, SQLAlchemy, Docker) | [código ↗](https://github.com/maessa-oliveira/calibra-topo) |
+| [**geobr-mcp**](https://github.com/maessa-oliveira/geobr-mcp) | Conector (servidor MCP) que dá ao Claude ferramentas de geodésia testadas: UTM, SAD 69 ↔ SIRGAS 2000, RBMC, poligonal e GSD de drone | [instalar ↗](https://github.com/maessa-oliveira/geobr-mcp#instalação) |
 
 <p align="center">
   <a href="https://maessa-oliveira.github.io/poligonal/"><img src="https://raw.githubusercontent.com/maessa-oliveira/poligonal/main/docs/og-card.png" width="49%" alt="Calculadora de poligonal"></a>
@@ -32,7 +33,7 @@ problemas do dia a dia em ferramentas de software, abertas e testadas. Estudo En
 
 **Campo:** estação total · GNSS RTK/estático · nivelamento · drone (fotogrametria)  
 **Geo:** SIRGAS 2000 · UTM · RBMC/IBGE · Civil 3D · QGIS  
-**Software:** Python · JavaScript · FastAPI · SQLAlchemy · three.js · Leaflet · testes automatizados · GitHub Actions · Docker
+**Software:** Python · JavaScript · Java · FastAPI · SQLAlchemy · three.js · Leaflet · testes automatizados · GitHub Actions · Docker · MCP (IA)
 
 #### 💡 Como trabalho
 
